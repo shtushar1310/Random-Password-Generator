@@ -32,3 +32,4 @@ Through this project, I learned and practiced:
 - **tailwindcss** (making UI polished)
 
 
+![UI of App](<Screenshot 2025-11-02 at 08-23-10 03_password_generator.png>)
